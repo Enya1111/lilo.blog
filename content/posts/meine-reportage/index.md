@@ -1,5 +1,5 @@
 +++
-title = "Für eine Welt, in die viele Welten passenMeine Reportage"
+title = "Für eine Welt, in die viele Welten passen!"
 date = "2025-02-17"
 draft = false
 pinned = false
